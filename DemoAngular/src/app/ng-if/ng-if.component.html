@@ -1,0 +1,12 @@
+<h2>{{title}}</h2>
+<h3 *ngIf="show">Hien thi</h3>
+<div [ngSwitch]="color">
+  <p *ngSwitchCase="'red'">This is color red</p>
+  <p *ngSwitchCase="'green'">This is color green</p>
+  <p *ngSwitchCase="'blue'">This is color blue</p>
+  <p *ngSwitchDefault>This is color random</p>
+
+  <ul>
+    <li *ngFor="let color of colors">{{color}}</li>
+  </ul>
+</div>

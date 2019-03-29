@@ -1,0 +1,6 @@
+E:\Web\Test\JQuery\JQuery\bin\JQuery.dll.config
+E:\Web\Test\JQuery\JQuery\bin\JQuery.dll
+E:\Web\Test\JQuery\JQuery\bin\JQuery.pdb
+E:\Web\Test\JQuery\JQuery\obj\Debug\JQuery.csprojResolveAssemblyReference.cache
+E:\Web\Test\JQuery\JQuery\obj\Debug\JQuery.dll
+E:\Web\Test\JQuery\JQuery\obj\Debug\JQuery.pdb

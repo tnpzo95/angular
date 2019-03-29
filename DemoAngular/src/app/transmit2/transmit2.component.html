@@ -1,0 +1,4 @@
+<input type="text" #textName (keyup)="0">
+<p>Agree:{{agree}}. Disgree{{disgree}}</p>
+<button (click)="changeName()">Change Name</button>
+<app-transmit1 *ngFor = "let person of names" [name]="person" (onVote)="parentVote($event)"></app-transmit1>
